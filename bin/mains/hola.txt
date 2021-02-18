@@ -1,0 +1,9 @@
+3213 32 maincra
+show
+move 1 0 0
+show
+orientate 1 0 0
+useItem 150
+show
+useItem 3203
+show

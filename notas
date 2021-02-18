@@ -1,0 +1,43 @@
+1.Comprobar si 'isFree()' de Location funciona bien.
+2.Acabar las excepcion de setDrops de Block
+3.Duda en setItemInHand(ItemStack items). Hay que borrar lo que había en InHand(), o hacer un intercambio inHand()<->items?
+
+
+
+
+---CLASES ACABADAS:
+					-ItemStack
+					-Location
+					-Material
+					-Block
+					-Inventory
+					-Player
+					
+	
+---FUNCIONA:	
+	
+	-----------------TODO LOCATION------------------
+	Funciona Location_P1Test
+	Funciona Location_PreP1Test
+	Funciona Location_PreP2Test
+
+	-----------------TODO WORLD---------------------
+	Funciona World_P1Test
+	Funciona World_PreP1Test
+	Funciona World_PreP2Test
+	
+	-----------------TODO MATERIAL------------------
+	Funciona Material_PreP2Test
+	
+	-----------------TODO ITEMSTACK-----------------
+	Funciona ItemStack_PreP2Test
+	
+	-----------------TODO INVENTORY-----------------
+	Funciona Inventory_PreP2Test
+	
+	-----------------TODO BLOCK---------------------
+	Funciona Block_PreP2Test
+	
+	-----------------TODO PLAYER--------------------
+	Funciona Player_PreP2Test
+					
